@@ -127,7 +127,7 @@ export function Search() {
       </div>
       <button
         type="submit"
-        className="bg-zinc-800/80 mt-5 px-5 py-2 rounded hover:opacity-75"
+        className="bg-zinc-800/80 mt-5 px-5 py-2 rounded text-zinc-200 hover:opacity-75 dark:text-[var(--foreground-rgb)]"
       >
         Subscribe
       </button>
